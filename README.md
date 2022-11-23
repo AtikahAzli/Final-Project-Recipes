@@ -1,11 +1,11 @@
-﻿A web based for generating a cooking recipe consist of title, ingredients, food image and instructions from a word or random selection.
+﻿A web based for generating a cooking recipe consist of title, ingredients, food image and instructions from by name or random selection.
 ### ` `**Demo:**
-### ![](Aspose.Words.84054486-69ff-4fb1-971d-96195113c22a.001.png)
-### ![](Aspose.Words.84054486-69ff-4fb1-971d-96195113c22a.002.png)
+### ![](Aspose.Words.dcf538d7-f25c-4a8b-a14d-83467547389c.001.png)
+### ![](Aspose.Words.dcf538d7-f25c-4a8b-a14d-83467547389c.002.png)
 ###
 ###
 ### **Flow Chart:**
-### ![](Aspose.Words.84054486-69ff-4fb1-971d-96195113c22a.003.png)
+### ![](Aspose.Words.dcf538d7-f25c-4a8b-a14d-83467547389c.003.png)
 ###
 ### **Prerequisite:**
 With following technologies go hand in hand for the cooking recipe website project.  
