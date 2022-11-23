@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: black;
+  background-color: rgb(220, 134, 223);
 }
 .container {
   background-color: #ffffff;
@@ -67,6 +67,7 @@ img {
   background-color: goldenrod;    
   bottom: 0%;
   font-weight: bold;
+  border-radius: 0.3em;
 }
 #hide-recipe {
     font-size: 16pt;
